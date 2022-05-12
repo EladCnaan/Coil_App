@@ -1,0 +1,168 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.coil_app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:24:5-26:47
+14        android:name="com.example.coil_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:25:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:26:9-44
+16
+17    <uses-permission android:name="com.example.coil_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:28:5-97
+17-->[androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:28:22-94
+18    <uses-permission android:name="android.permission.REORDER_TASKS" />
+18-->[androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:24:5-72
+18-->[androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:24:22-69
+19
+20    <application
+20-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:7:5-23:19
+21        android:allowBackup="true"
+21-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:8:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:30:18-86
+23        android:debuggable="true"
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:9:9-43
+25        android:label="@string/app_name"
+25-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:10:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:11:9-54
+27        android:supportsRtl="true"
+27-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:12:9-35
+28        android:testOnly="true"
+29        android:theme="@style/Theme.Coil_App" >
+29-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:13:9-46
+30        <activity
+30-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:14:9-22:20
+31            android:name="com.example.coil_app.MainActivity"
+31-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:15:13-41
+32            android:exported="true" >
+32-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:16:13-36
+33            <intent-filter>
+33-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:17:13-21:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:18:17-69
+34-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:18:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:20:17-77
+36-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:20:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->[androidx.compose.ui:ui-tooling:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2881954662689aaf48b23e27b1466b16\transformed\ui-tooling-1.1.1\AndroidManifest.xml:25:9-27:39
+40            android:name="androidx.compose.ui.tooling.PreviewActivity"
+40-->[androidx.compose.ui:ui-tooling:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2881954662689aaf48b23e27b1466b16\transformed\ui-tooling-1.1.1\AndroidManifest.xml:26:13-71
+41            android:exported="true" />
+41-->[androidx.compose.ui:ui-tooling:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2881954662689aaf48b23e27b1466b16\transformed\ui-tooling-1.1.1\AndroidManifest.xml:27:13-36
+42
+43        <provider
+43-->[androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:26:9-34:20
+44            android:name="androidx.startup.InitializationProvider"
+44-->[androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:27:13-67
+45            android:authorities="com.example.coil_app.androidx-startup"
+45-->[androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:28:13-68
+46            android:exported="false" >
+46-->[androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:29:13-37
+47            <meta-data
+47-->[androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:31:13-33:52
+48                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+48-->[androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:32:17-75
+49                android:value="androidx.startup" />
+49-->[androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:33:17-49
+50            <meta-data
+50-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\7236a21baf9f6571110ef67d08fcde6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+51                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+51-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\7236a21baf9f6571110ef67d08fcde6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+52                android:value="androidx.startup" />
+52-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\7236a21baf9f6571110ef67d08fcde6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+53            <meta-data
+53-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:31:13-33:52
+54                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+54-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:32:17-85
+55                android:value="androidx.startup" />
+55-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:33:17-49
+56        </provider>
+57
+58        <activity
+58-->[androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:27:9-34:20
+59            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+59-->[androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:28:13-99
+60            android:exported="true"
+60-->[androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:29:13-36
+61            android:theme="@android:style/Theme" >
+61-->[androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:30:13-49
+62            <intent-filter>
+62-->[androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:31:13-33:29
+63                <action android:name="android.intent.action.MAIN" />
+63-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:18:17-69
+63-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:18:25-66
+64            </intent-filter>
+65        </activity>
+66        <activity
+66-->[androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:35:9-42:20
+67            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+67-->[androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:36:13-95
+68            android:exported="true"
+68-->[androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:37:13-36
+69            android:theme="@android:style/Theme" >
+69-->[androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:38:13-49
+70            <intent-filter>
+70-->[androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:31:13-33:29
+71                <action android:name="android.intent.action.MAIN" />
+71-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:18:17-69
+71-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:18:25-66
+72            </intent-filter>
+73        </activity>
+74        <activity
+74-->[androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:43:9-50:20
+75            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+75-->[androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:44:13-103
+76            android:exported="true"
+76-->[androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:45:13-36
+77            android:theme="@android:style/Theme.Dialog" >
+77-->[androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:46:13-56
+78            <intent-filter>
+78-->[androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:31:13-33:29
+79                <action android:name="android.intent.action.MAIN" />
+79-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:18:17-69
+79-->C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:18:25-66
+80            </intent-filter>
+81        </activity>
+82
+83        <receiver
+83-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:36:9-45:20
+84            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+84-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:37:13-76
+85            android:directBootAware="false"
+85-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:38:13-44
+86            android:enabled="true"
+86-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:39:13-35
+87            android:exported="true"
+87-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:40:13-36
+88            android:permission="android.permission.DUMP" >
+88-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:41:13-57
+89            <intent-filter>
+89-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:42:13-44:29
+90                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+90-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:43:17-91
+90-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:43:25-88
+91            </intent-filter>
+92        </receiver>
+93    </application>
+94
+95</manifest>
