@@ -1,0 +1,438 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2881954662689aaf48b23e27b1466b16\transformed\ui-tooling-1.1.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.activity:activity-compose:1.6.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\3a6f80572df0f4c0e348dfda958cb36b\transformed\activity-compose-1.6.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil-compose:1.3.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\ac2442e40a747de643bbc40a4ab1f1bd\transformed\coil-compose-1.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.material:material:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\a1f091095d5212cf91e16850a04e34c5\transformed\material-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil-compose-base:1.3.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\d627e4d6414c00794403a65316ea857a\transformed\coil-compose-base-1.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.material:material-ripple:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\82a8c9bc39a31214327556823e1b15f2\transformed\material-ripple-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\b68816400de38c0888307a146255635a\transformed\foundation-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\5136f62f04d4988e2d20c0babd74e18c\transformed\animation-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\c428f987c2dc24b3d8ac5591385272a0\transformed\foundation-layout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-extended:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4ee8a2d91c2dcb8d77212d96a7d32700\transformed\material-icons-extended-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-livedata:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4cc87748027077776f6b75f35c45df0b\transformed\runtime-livedata-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\63c32771b8fbf5db90f48513d4dfa8d9\transformed\animation-core-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-core:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\826cd6b2b6689542c01b5ffe1d4a1e7d\transformed\material-icons-core-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\f88c1e09b656a2a19192fa94fb5256c6\transformed\ui-tooling-data-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\20d9b8259ae6036c47a77d9bd64645c3\transformed\ui-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-text:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\3f76753648729b53d65a932781bb9eb4\transformed\ui-text-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\5eba4d105b57ee9a7757f69bce615320\transformed\ui-graphics-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\c9968a65c5256d0ab1b61ec6316d7000\transformed\ui-unit-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2d667088f15becb2cfdfe0cde71bd6cb\transformed\runtime-saveable-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\676ae11c900982498fbcc512bd5b8acd\transformed\ui-geometry-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\fb707f96e9cd5dcf35969b3df4c31925\transformed\ui-tooling-preview-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\34ee13a17fb166d9c09ef85d1fffe942\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\9b99037fa1c58404ade7f1f518fc3075\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\49675a393f5830dd2648a5646f8ec090\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\367ed6364f9a1aaeeeaeffffa14eb637\transformed\appcompat-1.6.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\858535011030c1feb85773790646e073\transformed\fragment-ktx-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\aa556df5ff4f3ece8a2be06a3a4be059\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\3a0ce10affa58b47fde4bb19a0adba63\transformed\fragment-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.6.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2b9bfb376da565204916e4442e87eee2\transformed\activity-ktx-1.6.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\b7f09c5840f201d78f5239d4559fd108\transformed\activity-1.6.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\6b21e145d613b752f1696ec1cfe15b6a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\3c752496128f82f0e3271c1610064cbd\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\b5ed65903a86c1ee6b28c58c4654866a\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\b76aac36e74efba45f420f6f4c060fb0\transformed\lifecycle-viewmodel-ktx-2.5.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2fc22f16804c6783ed97bf0f31d5ecaa\transformed\lifecycle-viewmodel-2.5.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\ce3d2287217985ab8bf65bf6b7540291\transformed\lifecycle-viewmodel-savedstate-2.5.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\7509bd4e2dd65ab28bf9be9cd06368cd\transformed\lifecycle-runtime-ktx-2.5.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil:1.3.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\748bcdffa1b53c2d8e694f380269ac5f\transformed\coil-1.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-base:1.3.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\fbd6b05736402647a11788689b157f84\transformed\coil-base-1.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\190acf0542b7f45dde4e76e1b2d711ac\transformed\lifecycle-livedata-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\952ba66cf4b4c8b0697bddb6dc66f6fc\transformed\savedstate-ktx-1.2.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\e18948417adfe474ef5d90ce9ca48286\transformed\savedstate-1.2.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\3f148ea9633fb54bb39401b5fd54eb80\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.test.ext:junit-ktx:1.1.3] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\da785b0ead01f76d492d9ffe7fa9e09e\transformed\junit-ktx-1.1.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\f7af183bb7dfc22e5801ef5943e50c07\transformed\lifecycle-livedata-core-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\7c11486fc2ff8fe919fafb2c9fb76c84\transformed\ui-util-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\89982735357292846def8dc675b74e83\transformed\appcompat-resources-1.6.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\bbe46217bbb34c9505e2203b92dfcbed\transformed\emoji2-views-helper-1.2.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\844ed49fbae6c1ffa06b773944d1559d\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\c678be127243eb0304902b4edf85df14\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\dbcae916516af52c9d58a204a53d0f63\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\dbd69dae5da3d1c0531e6a17316ac763\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\e3a4459c898b46e7b1068843eb36115c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\c1d6d6b60099de1721f82c1e7313fa26\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\643dc768344563268d730ab9c4f80828\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\65272bff617883580a06f809d5930546\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\278962f65a1aea0469fe86bbca6abfe2\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\cfd34d9d72e1012f37202f48d3f3a12f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\7236a21baf9f6571110ef67d08fcde6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\80ba1c20a2b130de8dce2fea53b28240\transformed\lifecycle-runtime-2.5.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.ext:junit:1.1.3] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\70e7f0ee57c3573b5b473f18c25152ce\transformed\junit-1.1.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:17:1-53:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\cd132171d2335bacb644e406033746f5\transformed\lifecycle-livedata-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\e0fff1af968520a4c157a772aaff8763\transformed\lifecycle-livedata-core-2.5.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\ac0f027d9fa7d3302423739e2ca5df33\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\38d570bf5aa57744bfd560389f61969e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\12e564460b81735d48349e4d2d28419c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\fc13ef7c7fc1561ec76901bd56b98757\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\8250137151e623ab5cbbc2dd3fa70ab6\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\fa65df45ee9ff06a979fb812c5447cd3\transformed\monitor-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\f61118d3955cb0ccfd39d3c08130b202\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\e853543414eedb6048d037be50f1211d\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\5d97dbd90a5e973c5f09ab6d26a2dc4d\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\eca16179ee9de641990bb00dcbc6049d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\10cfaf80e619022a6261da316d487d07\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\f54d4b89dfa6a76386f7976cecce9808\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:7:5-23:19
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2881954662689aaf48b23e27b1466b16\transformed\ui-tooling-1.1.1\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2881954662689aaf48b23e27b1466b16\transformed\ui-tooling-1.1.1\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\9b99037fa1c58404ade7f1f518fc3075\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\9b99037fa1c58404ade7f1f518fc3075\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\49675a393f5830dd2648a5646f8ec090\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\49675a393f5830dd2648a5646f8ec090\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:30:5-89
+MERGED from [androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:30:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\7236a21baf9f6571110ef67d08fcde6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\7236a21baf9f6571110ef67d08fcde6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\38d570bf5aa57744bfd560389f61969e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\38d570bf5aa57744bfd560389f61969e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\12e564460b81735d48349e4d2d28419c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\12e564460b81735d48349e4d2d28419c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:30:18-86
+	android:supportsRtl
+		ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:13:9-46
+activity#com.example.coil_app.MainActivity
+ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:exported
+		ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2881954662689aaf48b23e27b1466b16\transformed\ui-tooling-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2881954662689aaf48b23e27b1466b16\transformed\ui-tooling-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.6.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\3a6f80572df0f4c0e348dfda958cb36b\transformed\activity-compose-1.6.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.6.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\3a6f80572df0f4c0e348dfda958cb36b\transformed\activity-compose-1.6.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil-compose:1.3.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\ac2442e40a747de643bbc40a4ab1f1bd\transformed\coil-compose-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose:1.3.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\ac2442e40a747de643bbc40a4ab1f1bd\transformed\coil-compose-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.material:material:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\a1f091095d5212cf91e16850a04e34c5\transformed\material-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\a1f091095d5212cf91e16850a04e34c5\transformed\material-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil-compose-base:1.3.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\d627e4d6414c00794403a65316ea857a\transformed\coil-compose-base-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose-base:1.3.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\d627e4d6414c00794403a65316ea857a\transformed\coil-compose-base-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.material:material-ripple:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\82a8c9bc39a31214327556823e1b15f2\transformed\material-ripple-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\82a8c9bc39a31214327556823e1b15f2\transformed\material-ripple-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\b68816400de38c0888307a146255635a\transformed\foundation-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\b68816400de38c0888307a146255635a\transformed\foundation-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\5136f62f04d4988e2d20c0babd74e18c\transformed\animation-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\5136f62f04d4988e2d20c0babd74e18c\transformed\animation-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\c428f987c2dc24b3d8ac5591385272a0\transformed\foundation-layout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\c428f987c2dc24b3d8ac5591385272a0\transformed\foundation-layout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-extended:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4ee8a2d91c2dcb8d77212d96a7d32700\transformed\material-icons-extended-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-extended:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4ee8a2d91c2dcb8d77212d96a7d32700\transformed\material-icons-extended-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-livedata:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4cc87748027077776f6b75f35c45df0b\transformed\runtime-livedata-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-livedata:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4cc87748027077776f6b75f35c45df0b\transformed\runtime-livedata-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\63c32771b8fbf5db90f48513d4dfa8d9\transformed\animation-core-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\63c32771b8fbf5db90f48513d4dfa8d9\transformed\animation-core-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\826cd6b2b6689542c01b5ffe1d4a1e7d\transformed\material-icons-core-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\826cd6b2b6689542c01b5ffe1d4a1e7d\transformed\material-icons-core-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\f88c1e09b656a2a19192fa94fb5256c6\transformed\ui-tooling-data-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\f88c1e09b656a2a19192fa94fb5256c6\transformed\ui-tooling-data-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\20d9b8259ae6036c47a77d9bd64645c3\transformed\ui-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\20d9b8259ae6036c47a77d9bd64645c3\transformed\ui-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\3f76753648729b53d65a932781bb9eb4\transformed\ui-text-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\3f76753648729b53d65a932781bb9eb4\transformed\ui-text-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\5eba4d105b57ee9a7757f69bce615320\transformed\ui-graphics-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\5eba4d105b57ee9a7757f69bce615320\transformed\ui-graphics-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\c9968a65c5256d0ab1b61ec6316d7000\transformed\ui-unit-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\c9968a65c5256d0ab1b61ec6316d7000\transformed\ui-unit-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2d667088f15becb2cfdfe0cde71bd6cb\transformed\runtime-saveable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2d667088f15becb2cfdfe0cde71bd6cb\transformed\runtime-saveable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\676ae11c900982498fbcc512bd5b8acd\transformed\ui-geometry-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\676ae11c900982498fbcc512bd5b8acd\transformed\ui-geometry-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\fb707f96e9cd5dcf35969b3df4c31925\transformed\ui-tooling-preview-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\fb707f96e9cd5dcf35969b3df4c31925\transformed\ui-tooling-preview-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\34ee13a17fb166d9c09ef85d1fffe942\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\34ee13a17fb166d9c09ef85d1fffe942\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.5.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\9b99037fa1c58404ade7f1f518fc3075\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\9b99037fa1c58404ade7f1f518fc3075\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\49675a393f5830dd2648a5646f8ec090\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\49675a393f5830dd2648a5646f8ec090\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\367ed6364f9a1aaeeeaeffffa14eb637\transformed\appcompat-1.6.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.6.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\367ed6364f9a1aaeeeaeffffa14eb637\transformed\appcompat-1.6.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\858535011030c1feb85773790646e073\transformed\fragment-ktx-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\858535011030c1feb85773790646e073\transformed\fragment-ktx-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\aa556df5ff4f3ece8a2be06a3a4be059\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\aa556df5ff4f3ece8a2be06a3a4be059\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\3a0ce10affa58b47fde4bb19a0adba63\transformed\fragment-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\3a0ce10affa58b47fde4bb19a0adba63\transformed\fragment-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.6.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2b9bfb376da565204916e4442e87eee2\transformed\activity-ktx-1.6.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.6.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2b9bfb376da565204916e4442e87eee2\transformed\activity-ktx-1.6.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\b7f09c5840f201d78f5239d4559fd108\transformed\activity-1.6.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\b7f09c5840f201d78f5239d4559fd108\transformed\activity-1.6.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\6b21e145d613b752f1696ec1cfe15b6a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\6b21e145d613b752f1696ec1cfe15b6a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\3c752496128f82f0e3271c1610064cbd\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\3c752496128f82f0e3271c1610064cbd\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\b5ed65903a86c1ee6b28c58c4654866a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\b5ed65903a86c1ee6b28c58c4654866a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\b76aac36e74efba45f420f6f4c060fb0\transformed\lifecycle-viewmodel-ktx-2.5.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\b76aac36e74efba45f420f6f4c060fb0\transformed\lifecycle-viewmodel-ktx-2.5.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2fc22f16804c6783ed97bf0f31d5ecaa\transformed\lifecycle-viewmodel-2.5.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2fc22f16804c6783ed97bf0f31d5ecaa\transformed\lifecycle-viewmodel-2.5.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\ce3d2287217985ab8bf65bf6b7540291\transformed\lifecycle-viewmodel-savedstate-2.5.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\ce3d2287217985ab8bf65bf6b7540291\transformed\lifecycle-viewmodel-savedstate-2.5.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\7509bd4e2dd65ab28bf9be9cd06368cd\transformed\lifecycle-runtime-ktx-2.5.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\7509bd4e2dd65ab28bf9be9cd06368cd\transformed\lifecycle-runtime-ktx-2.5.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil:1.3.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\748bcdffa1b53c2d8e694f380269ac5f\transformed\coil-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:1.3.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\748bcdffa1b53c2d8e694f380269ac5f\transformed\coil-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:1.3.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\fbd6b05736402647a11788689b157f84\transformed\coil-base-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:1.3.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\fbd6b05736402647a11788689b157f84\transformed\coil-base-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\190acf0542b7f45dde4e76e1b2d711ac\transformed\lifecycle-livedata-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\190acf0542b7f45dde4e76e1b2d711ac\transformed\lifecycle-livedata-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\952ba66cf4b4c8b0697bddb6dc66f6fc\transformed\savedstate-ktx-1.2.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\952ba66cf4b4c8b0697bddb6dc66f6fc\transformed\savedstate-ktx-1.2.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\e18948417adfe474ef5d90ce9ca48286\transformed\savedstate-1.2.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\e18948417adfe474ef5d90ce9ca48286\transformed\savedstate-1.2.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\3f148ea9633fb54bb39401b5fd54eb80\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\3f148ea9633fb54bb39401b5fd54eb80\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.test.ext:junit-ktx:1.1.3] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\da785b0ead01f76d492d9ffe7fa9e09e\transformed\junit-ktx-1.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit-ktx:1.1.3] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\da785b0ead01f76d492d9ffe7fa9e09e\transformed\junit-ktx-1.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\f7af183bb7dfc22e5801ef5943e50c07\transformed\lifecycle-livedata-core-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\f7af183bb7dfc22e5801ef5943e50c07\transformed\lifecycle-livedata-core-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\7c11486fc2ff8fe919fafb2c9fb76c84\transformed\ui-util-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\7c11486fc2ff8fe919fafb2c9fb76c84\transformed\ui-util-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\89982735357292846def8dc675b74e83\transformed\appcompat-resources-1.6.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\89982735357292846def8dc675b74e83\transformed\appcompat-resources-1.6.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\bbe46217bbb34c9505e2203b92dfcbed\transformed\emoji2-views-helper-1.2.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\bbe46217bbb34c9505e2203b92dfcbed\transformed\emoji2-views-helper-1.2.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\844ed49fbae6c1ffa06b773944d1559d\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\844ed49fbae6c1ffa06b773944d1559d\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\c678be127243eb0304902b4edf85df14\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\c678be127243eb0304902b4edf85df14\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\dbcae916516af52c9d58a204a53d0f63\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\dbcae916516af52c9d58a204a53d0f63\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\dbd69dae5da3d1c0531e6a17316ac763\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\dbd69dae5da3d1c0531e6a17316ac763\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\e3a4459c898b46e7b1068843eb36115c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\e3a4459c898b46e7b1068843eb36115c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\c1d6d6b60099de1721f82c1e7313fa26\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\c1d6d6b60099de1721f82c1e7313fa26\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\643dc768344563268d730ab9c4f80828\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\643dc768344563268d730ab9c4f80828\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\65272bff617883580a06f809d5930546\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\65272bff617883580a06f809d5930546\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\278962f65a1aea0469fe86bbca6abfe2\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\278962f65a1aea0469fe86bbca6abfe2\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\cfd34d9d72e1012f37202f48d3f3a12f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\cfd34d9d72e1012f37202f48d3f3a12f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\7236a21baf9f6571110ef67d08fcde6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\7236a21baf9f6571110ef67d08fcde6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\80ba1c20a2b130de8dce2fea53b28240\transformed\lifecycle-runtime-2.5.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\80ba1c20a2b130de8dce2fea53b28240\transformed\lifecycle-runtime-2.5.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit:1.1.3] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\70e7f0ee57c3573b5b473f18c25152ce\transformed\junit-1.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit:1.1.3] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\70e7f0ee57c3573b5b473f18c25152ce\transformed\junit-1.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\cd132171d2335bacb644e406033746f5\transformed\lifecycle-livedata-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\cd132171d2335bacb644e406033746f5\transformed\lifecycle-livedata-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\e0fff1af968520a4c157a772aaff8763\transformed\lifecycle-livedata-core-2.5.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0-beta01] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\e0fff1af968520a4c157a772aaff8763\transformed\lifecycle-livedata-core-2.5.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\ac0f027d9fa7d3302423739e2ca5df33\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\ac0f027d9fa7d3302423739e2ca5df33\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\38d570bf5aa57744bfd560389f61969e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\38d570bf5aa57744bfd560389f61969e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\12e564460b81735d48349e4d2d28419c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\12e564460b81735d48349e4d2d28419c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\fc13ef7c7fc1561ec76901bd56b98757\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\fc13ef7c7fc1561ec76901bd56b98757\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\8250137151e623ab5cbbc2dd3fa70ab6\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\8250137151e623ab5cbbc2dd3fa70ab6\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\fa65df45ee9ff06a979fb812c5447cd3\transformed\monitor-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\fa65df45ee9ff06a979fb812c5447cd3\transformed\monitor-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\f61118d3955cb0ccfd39d3c08130b202\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\f61118d3955cb0ccfd39d3c08130b202\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\e853543414eedb6048d037be50f1211d\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\e853543414eedb6048d037be50f1211d\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\5d97dbd90a5e973c5f09ab6d26a2dc4d\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\5d97dbd90a5e973c5f09ab6d26a2dc4d\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\eca16179ee9de641990bb00dcbc6049d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\eca16179ee9de641990bb00dcbc6049d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\10cfaf80e619022a6261da316d487d07\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\10cfaf80e619022a6261da316d487d07\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\f54d4b89dfa6a76386f7976cecce9808\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\f54d4b89dfa6a76386f7976cecce9808\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android2_Fourth_Project\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2881954662689aaf48b23e27b1466b16\transformed\ui-tooling-1.1.1\AndroidManifest.xml:25:9-27:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2881954662689aaf48b23e27b1466b16\transformed\ui-tooling-1.1.1\AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\2881954662689aaf48b23e27b1466b16\transformed\ui-tooling-1.1.1\AndroidManifest.xml:26:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\7236a21baf9f6571110ef67d08fcde6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\7236a21baf9f6571110ef67d08fcde6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\12e564460b81735d48349e4d2d28419c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\12e564460b81735d48349e4d2d28419c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0-alpha04] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4a738707ade0d0f6f8d2ef75b97f4630\transformed\emoji2-1.2.0-alpha04\AndroidManifest.xml:32:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:24:5-26:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:25:9-81
+permission#com.example.coil_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:24:5-26:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:25:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:28:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:28:22-94
+uses-permission#com.example.coil_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:28:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0-alpha03] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\11a880ce447cc22b0546d1f6069769e7\transformed\core-1.9.0-alpha03\AndroidManifest.xml:28:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\7236a21baf9f6571110ef67d08fcde6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\7236a21baf9f6571110ef67d08fcde6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\7236a21baf9f6571110ef67d08fcde6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:24:22-69
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:28:13-99
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:31:13-33:29
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:36:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from [androidx.test:core:1.4.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\0b048093dff214ee99426e9128e6d114\transformed\core-1.4.0\AndroidManifest.xml:44:13-103
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:32:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:36:9-45:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:41:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:37:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:42:13-44:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:43:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Android2_First_Project\Material design 3\RecyclerViewKotlin\caches\transforms-3\4e7720aaf4c1058b183ce3eb34b5d225\transformed\profileinstaller-1.1.0\AndroidManifest.xml:43:25-88
