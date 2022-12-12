@@ -1,30 +1,29 @@
 package com.example.coil_app
 
-import android.graphics.Color
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.Surface
-import org.w3c.dom.Text
-import java.lang.reflect.Modifier
+import androidx.activity.compose.setContent
+import androidx.activity.viewModels
+import androidx.appcompat.app.AppCompatActivity
+import androidx.compose.foundation.ExperimentalFoundationApi
+import androidx.compose.material.MaterialTheme
+import androidx.compose.material.Surface
+import com.example.coil_app.row_cards.RowsScreen
+import com.example.coil_app.row_cards.ViewModelCards
+import com.example.coil_app.ui_theme.AppTheme
+import com.example.coil_app.row_cards.RowsScreen
+
 
 class MainActivity : AppCompatActivity() {
+    private val cardsViewModel by viewModels<ViewModelCards>()
+
+    @ExperimentalFoundationApi
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-    }
-}
-
-@Composable
-fun LazyColumnClickable(selectedPerson: (int)->Unit){
-    LazyColumn{
-        items(8){
-            Surface(modifier = Modifier.clickable{ selectedPerson(it+1) }){
-                Text(
-                    text = "Person ${it + 1}",
-                    fontSize = 36.sp,
-                    modifier = Modifier.padding(8.dp)
-                )
-                Divider(color = Color.GRAY, thickness = 1.dp)
+        setContent {
+            AppTheme {
+                Surface(color = MaterialTheme.colors.background) {
+                    RowsScreen(cardsViewModel)
+                }
             }
         }
     }
